@@ -28,11 +28,48 @@ Grading
 
 The grade will be based on two exams, and four case assignments. Cases will be done in student groups (self-selected, non-repeating) of usually three students each. Some practice problem sets have also been prepared, which will generally not be required or graded (with one exception). Problem sets are recommended for practice to insure mastery of the lecture and text material and as preparation for the exams. Problem sets will be discussed by the TA during recitations when answer sheets will be handed out and made available in the assignment section. Overall course grading will be approximately as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Exam 1 | 25% |
-| Exam 2 | 35% |
-| Cases (10% each) | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Cases (10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Required Materials
 ------------------

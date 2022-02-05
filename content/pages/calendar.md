@@ -8,33 +8,450 @@ The readings are from the textbook:
 
 Geltner, David M., Norman G. Miller, Jim Clayton, and Piet Eichholtz. _Commercial Real Estate Analysis and Investments_. Cincinnati, OH: South-Western Educational Publishing, 2007. ISBN: 9780324305487.
 
-| SES # | LECTURES | READINGS | RECITATIONS |
-| --- | --- | --- | --- |
-| 1 | Course introduction (Geltner) | Chapters 1, 2, and skim parts | PV math (chapter 8), calculator help, PS1 coaching (TA) |
-| 2 | DCF (McGrath) | Chapter 10 (10.1-3) | &nbsp; |
-| 3 | DCF (cont.) and NPV (McGrath) | Chapter 10 (10.4-6) | Coaching on excel and argus (TA) |
-| 4 | NPV (Geltner) | Chapter 10 (10.5 and 10.6 and appendix A and B) | &nbsp; |
-| 5 | Real estate cash flows, proformas (McGrath) | Chapter 11 (11.1) | Problem set 1 due (chapters 8, 10, 11, excel and argus tutorial exercise) (TA) **Required assignment** |
-| 6 | Real estate opportunity cost of capital (McGrath) | Chapter 11 (11.2) | Guest speaker: Jeannette Rice, VP market research, Crescent RE. **(Liquidity Seminar)** |
-| 7 | Leverage (McGrath) | Chapter 13 (13.1 and 13.2) | &nbsp; |
-| 8 | Case 1: Private practice case I due (McGrath) | &nbsp; | Case discussion (cont.) |
-| 9 | WACC formula (McGrath) | Chapter 13 (13.3-5) | &nbsp; |
-| 10 | After-tax cash flows (McGrath) | Chapter 14 (14.1 and 14.2) | &nbsp; |
-| 11 | After-tax investment analysis and capital budgeting (Geltner) | Chapter 14 (14.3.1-5) | Leverage and tax (TAs) |
-| 12 | Commercial mortgage underwriting (Geltner) | Chapter 18 (Section 2) | &nbsp; |
-| 13 | Case 2: Private practice case II due (McGrath) | Chapter 17 (Section 1) | Mortgage mechanics (Geltner) |
-| 14 | Exam 1 (Chapters 10-13, 14.1-5) | &nbsp; |
-| 15 | Development financial feasibility (Geltner) | Chapter 28 | Lecture extension; exam de-briefing (Geltner) |
-| 16 | Development project evaluation (Geltner) | Chapter 29 (29.1 and 29.3 only) | &nbsp; |
-| 17 | Intro case 3, madison project example (Geltner) | Madison spreadsheet | Case 3 guidance (TAs) |
-| 18 |  {{< br >}}{{< br >}} Madison example (cont.) {{< br >}}{{< br >}} Finish development project investment analysis (Geltner) {{< br >}}{{< br >}}  | Sections 29.1 and 29.3 | &nbsp; |
-| 19 | Case 3: One Lincoln St case I (development) due (McGrath) | &nbsp; | Extension of case 3 discussion |
-| 20 | Lincoln (post) and Inter-Mountain (pre) case discussions (Geltner) | Inter-Mountain | &nbsp; |
-| 21 | Capital structure debt vs equity, etc. (Geltner) | Chapter 15 | No recitation |
-| 22 | Project level capital structure (Geltner) | Section 15.3 | &nbsp; |
-| 23 | Real options and land value (Geltner) | Chapter 27 | Lecture extension |
-| 24 | Real options and land value (cont.) (Geltner) | Chapter 27 | &nbsp; |
-| 25 | Case 4: "Inter-Mountain" development project case (Larry Ellman, Citigroup) guest participant | &nbsp; | Case discussion continued |
-| 26 | Case 4 debriefing; review and catch up (Geltner) | &nbsp; |
-| 27 | Real options (cont.) review, catch up (Geltner) | Chapter 27 | &nbsp; |
-| &nbsp; | Final exam (cumulative with emphasis on 17.1, 18.2, 15.3, 27, 28, 29.1 and 29.3, and lessons from Cases 3 and 4) | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURES
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+RECITATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Course introduction (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapters 1, 2, and skim parts
+{{< tdclose >}}
+{{< tdopen >}}
+PV math (chapter 8), calculator help, PS1 coaching (TA)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+DCF (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 (10.1-3)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+DCF (cont.) and NPV (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 (10.4-6)
+{{< tdclose >}}
+{{< tdopen >}}
+Coaching on excel and argus (TA)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+NPV (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 10 (10.5 and 10.6 and appendix A and B)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Real estate cash flows, proformas (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11 (11.1)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due (chapters 8, 10, 11, excel and argus tutorial exercise) (TA) **Required assignment**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Real estate opportunity cost of capital (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 11 (11.2)
+{{< tdclose >}}
+{{< tdopen >}}
+Guest speaker: Jeannette Rice, VP market research, Crescent RE. **(Liquidity Seminar)**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Leverage (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13 (13.1 and 13.2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Case 1: Private practice case I due (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Case discussion (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+WACC formula (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 13 (13.3-5)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+After-tax cash flows (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14 (14.1 and 14.2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+After-tax investment analysis and capital budgeting (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 14 (14.3.1-5)
+{{< tdclose >}}
+{{< tdopen >}}
+Leverage and tax (TAs)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Commercial mortgage underwriting (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 18 (Section 2)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Case 2: Private practice case II due (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 17 (Section 1)
+{{< tdclose >}}
+{{< tdopen >}}
+Mortgage mechanics (Geltner)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1 (Chapters 10-13, 14.1-5)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Development financial feasibility (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 28
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture extension; exam de-briefing (Geltner)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Development project evaluation (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 29 (29.1 and 29.3 only)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Intro case 3, madison project example (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Madison spreadsheet
+{{< tdclose >}}
+{{< tdopen >}}
+Case 3 guidance (TAs)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Madison example (cont.)
+
+Finish development project investment analysis (Geltner)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Sections 29.1 and 29.3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Case 3: One Lincoln St case I (development) due (McGrath)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Extension of case 3 discussion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Lincoln (post) and Inter-Mountain (pre) case discussions (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Inter-Mountain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Capital structure debt vs equity, etc. (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 15
+{{< tdclose >}}
+{{< tdopen >}}
+No recitation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Project level capital structure (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Section 15.3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Real options and land value (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 27
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture extension
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Real options and land value (cont.) (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 27
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Case 4: "Inter-Mountain" development project case (Larry Ellman, Citigroup) guest participant
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Case discussion continued
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Case 4 debriefing; review and catch up (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Real options (cont.) review, catch up (Geltner)
+{{< tdclose >}}
+{{< tdopen >}}
+Chapter 27
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam (cumulative with emphasis on 17.1, 18.2, 15.3, 27, 28, 29.1 and 29.3, and lessons from Cases 3 and 4)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
